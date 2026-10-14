@@ -1,0 +1,19 @@
+product_id,product_name,brand,price,processor,ram,storage,battery_life,category,stock,rating
+LP1001,Dell Inspiron 15,Dell,55000,Core i5-1335U,16GB,512GB SSD,7 Hours,Laptop,15,4.3
+LP1002,Lenovo IdeaPad Slim 5,Lenovo,58990,Ryzen 7 7730U,16GB,512GB SSD,8 Hours,Laptop,9,4.5
+LP1003,HP Pavilion 14,HP,57990,Core i5-1335U,16GB,512GB SSD,8 Hours,Laptop,12,4.4
+LP1004,Acer Aspire 5,Acer,49990,Core i5-12450H,16GB,512GB SSD,6 Hours,Laptop,18,4.2
+LP1005,ASUS Vivobook 15,ASUS,52990,Ryzen 5 7530U,16GB,512GB SSD,7 Hours,Laptop,11,4.3
+LP1006,Lenovo IdeaPad Slim 3,Lenovo,44990,Ryzen 5 7520U,8GB,512GB SSD,8 Hours,Laptop,20,4.1
+LP1007,HP 15s,HP,46990,Core i5-1235U,8GB,512GB SSD,7 Hours,Laptop,13,4.0
+LP1008,Acer Aspire Lite,Acer,39990,Ryzen 5 5500U,16GB,512GB SSD,6 Hours,Laptop,8,4.0
+LP1009,ASUS TUF Gaming F15,ASUS,59990,Core i5-12500H,16GB,512GB SSD,5 Hours,Laptop,4,4.4
+LP1010,MSI Modern 14,MSI,56990,Core i5-1235U,16GB,512GB SSD,7 Hours,Laptop,0,4.2
+LP1011,Dell Vostro 3520,Dell,51990,Core i5-1235U,16GB,512GB SSD,6 Hours,Laptop,6,4.1
+LP1012,Lenovo ThinkBook 14,Lenovo,59990,Ryzen 7 7730U,16GB,1TB SSD,9 Hours,Laptop,5,4.6
+LP1013,HP Laptop 14s,HP,42990,Ryzen 5 5500U,8GB,512GB SSD,7 Hours,Laptop,14,3.9
+LP1014,Acer Swift Go 14,Acer,59990,Core Ultra 5 125H,16GB,512GB SSD,10 Hours,Laptop,3,4.5
+LP1015,ASUS Vivobook Go 15,ASUS,37990,Ryzen 5 7520U,8GB,512GB SSD,9 Hours,Laptop,16,4.0
+LP1016,Apple MacBook Air M1,Apple,59900,Apple M1,8GB,256GB SSD,15 Hours,Laptop,2,4.7
+LP1017,Lenovo LOQ 15,Lenovo,59990,Ryzen 5 7640HS,16GB,512GB SSD,6 Hours,Laptop,7,4.5
+LP1018,HP Victus 15,HP,59990,Ryzen 5 8645HS,16GB,512GB SSD,5 Hours,Laptop,0,4.3

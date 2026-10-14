@@ -1,0 +1,11 @@
+Python Programming Support
+Windows and Linux laptops can run Python 3, common editors such as VS Code, and development tools after the customer installs them. Check operating-system compatibility and available storage before choosing a specific model.
+
+Machine Learning Compatibility
+Laptops with 16 GB RAM are suitable for learning Python, data analysis, and small introductory machine-learning projects. Large model training and GPU-intensive workloads generally need a dedicated GPU or cloud compute; integrated graphics are not a substitute for a workstation GPU.
+
+Battery Details
+Battery life varies with screen brightness, workload, battery age, and power settings. The catalog's battery-hour values are illustrative estimates and are not guaranteed runtime figures. Programming, video calls, and high performance settings can reduce battery backup.
+
+Warranty Information
+Warranty coverage depends on the exact model, seller, and purchase region. Confirm the manufacturer's warranty duration, service locations, accidental-damage coverage, and return policy on the product listing before purchase.

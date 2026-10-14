@@ -1,0 +1,1 @@
+"""Shopping tools used by agents and the Streamlit application."""
